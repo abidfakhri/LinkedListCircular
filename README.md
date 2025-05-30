@@ -1,8 +1,9 @@
-   Kelompok 1
-    1. Fatchur Rizqi (32602400002)
-    2. Revalina Hamida Az-Zahra (32602400009)
-    3. Muhamad ‘Abid Fakhri Nabiil (32602400022)
-    4. Muhammad Bagas Maulana (32602400025)
+Kelompok 1 :
+1. Fatchur Rizqi (32602400002)
+2. Revalina Hamida Az Zahra (32602400009)
+3. Muhamad ‘Abid Fakhri Nabiil (32602400022)
+4. Muhammad Bagas Maulana (32602400025)
+
 ===================================================================================================
 
 Soal 3 – Circular Linked List
