@@ -1,4 +1,3 @@
----
 # Kelompok 1 :
 1. Fatchur Rizqi (32602400002)
 2. Revalina Hamida Az Zahra (32602400009)
