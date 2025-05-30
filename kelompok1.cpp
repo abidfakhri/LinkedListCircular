@@ -1,4 +1,10 @@
-// Kelompok 1
+/* Kelompok 1
+    1. Fatchur Rizqi (32602400002)
+    2. Revalina Hamida Az-Zahra (32602400009)
+    3. Muhammad ‘Abid Fakhri Nabil (32602400022)
+    4. Muhammad Bagas Maulana (32602400025)
+*/
+
 #include <iostream>
 #include <iomanip>
 using namespace std;
