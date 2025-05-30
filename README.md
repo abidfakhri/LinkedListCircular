@@ -7,7 +7,7 @@
 ---
 
 # Soal 3 – Circular Linked List
-## "Sistem Rotasi Penjaga Stand Pameran TI"
+### "Sistem Rotasi Penjaga Stand Pameran TI"
 
 Selama pameran teknologi informasi, mahasiswa ditugaskan untuk berjaga secara bergiliran.
 Buatlah sistem rotasi berbasis circular linked list.
