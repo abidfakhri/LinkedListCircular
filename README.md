@@ -5,9 +5,9 @@ Selama pameran teknologi informasi, mahasiswa ditugaskan untuk berjaga secara be
 Buatlah sistem rotasi berbasis circular linked list.
 
 Setiap node menyimpan:
-• Nama penjaga (string)
-• NIM (string)
-• Shift keberapa (integer)
+1. Nama penjaga (string)
+2. NIM (string)
+3. Shift keberapa (integer)
 
 Fitur yang harus diimplementasikan:
 1. Menambahkan mahasiswa penjaga ke dalam rotasi (di akhir rotasi).
