@@ -1,12 +1,12 @@
-Kelompok 1 :
+---
+# Kelompok 1 :
 1. Fatchur Rizqi (32602400002)
 2. Revalina Hamida Az Zahra (32602400009)
 3. Muhamad ‘Abid Fakhri Nabiil (32602400022)
 4. Muhammad Bagas Maulana (32602400025)
-
 ---
 
-Soal 3 – Circular Linked List
+# Soal 3 – Circular Linked List
 "Sistem Rotasi Penjaga Stand Pameran TI"
 
 Selama pameran teknologi informasi, mahasiswa ditugaskan untuk berjaga secara bergiliran.
@@ -24,3 +24,4 @@ Fitur yang harus diimplementasikan:
 seterusnya, melingkar.
 4. Simulasi rotasi: tampilkan siapa yang bertugas setelah X shift ke depan dari nama
 tertentu.
+---
